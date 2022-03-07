@@ -14,6 +14,7 @@
             <li><a href="about.html">ABOUT US</a></li>
             <li><a href="portfolio.html">PORTFOLIO</a></li>
             <li><a href="contact.html">CONTACT</a></li>
+            <li><a class="nav-link" href="artikel">ARTIKEL</a></li>
         </ul>
     </div>
 </div>
