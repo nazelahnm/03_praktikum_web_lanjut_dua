@@ -1,6 +1,7 @@
 @extends('main')
 @section('content')
     <!-- home section -->
+<title>{{ $title }}</title>
 <div id="home">
 	<div class="container">
 		<div class="row">

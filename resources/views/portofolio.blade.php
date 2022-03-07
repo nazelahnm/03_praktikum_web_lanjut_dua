@@ -1,6 +1,7 @@
 @extends('main')
 @section('content')
     <!-- portfolio header section -->
+<title>{{ $title }}</title>
 <div id="portfolio-header">
 	<div class="container">
 		<div class="row">
